@@ -2,7 +2,7 @@ class Macmonitor < Formula
   desc "Lightweight macOS system monitoring tool with customizable alerts"
   homepage "https://github.com/dim912/macmonitor"
   url "https://github.com/dim912/macmonitor/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "PLACEHOLDER_SHA256_HASH" # Replace with actual hash after creating the release
+  sha256 "f4e618299e787125cf465dd54fc60f75e411785597f9b66f60ca56f754e84b3d" # Replace with actual hash after creating the release
   version "1.0.0"
   license "MIT"
 
